@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Olá! Me chamo Cayky, tenho 19 anos e sou natural do Ceará. Atualmente curso Sistemas e Midias Digitais na UFC. Desde a infância tenho uma paixão por jogos e tecnologias, e iniciei a programar em torno de 2024. Atualmente estou procurando pela minha primeira oportunidade de estágio, com esse sendo o meu GitHub, onde compartilho projetos e práticas, com um foco atual no backend.
+Olá! Me chamo Cayky, 19 anos, estudante de Sistemas e Mídias Digitais na UFC. Apaixonado por jogos e tecnologia desde a infância, comecei a programar em 2024. Este é meu GitHub, onde compartilho projetos e práticas, com foco atual em desenvolvimento backend, enquanto busco minha primeira oportunidade de estágio.
 
 ---
 
@@ -62,10 +62,10 @@ Olá! Me chamo Cayky, tenho 19 anos e sou natural do Ceará. Atualmente curso Si
 ### Estatísticas
 
 <p>
- <img
-  align="left"
-  alt="Github Stats"
-  height="200"
-  src="https://github-readme-stats.vercel.app/api?username=Cayky153&show_icons=true&theme=tokyonight&locale=pt-br"
+  <img
+    align="left"
+    alt="Github Stats"
+    height="200"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Cayky153&show_icons=true&theme=tokyonight&locale=pt-br"
   />
-<p>
+</p>
