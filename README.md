@@ -21,12 +21,26 @@ Tenho interesse especial em desenvolvimento backend e arquitetura de software. N
     style="padding-right: 15px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
   />
+   <img 
+    alt="TypeScript"
+    title="TypeScript"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+  />
   <img 
     alt="Node.js"
     title="Node.js"
     width="40px"
     style="padding-right: 15px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"
+  />
+   <img 
+    alt="React"
+    title="React"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
   />
   <img 
     alt="Express"
@@ -42,12 +56,26 @@ Tenho interesse especial em desenvolvimento backend e arquitetura de software. N
     style="padding-right: 15px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
   />
+    <img 
+    alt="PostgreSql"
+    title="PostgreSql"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
+  />
   <img 
     alt="VSCODE"
     title="VScode"
     width="40px"
     style="padding-right: 15px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+   />
+    <img 
+    alt="Kotlin"
+    title="Kotlin"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
    />
  <img 
     alt="VSCODE"
