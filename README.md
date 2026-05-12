@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Backend`**
 
-Olá! Me chamo Cayky, 19 anos, estudante de Sistemas e Mídias Digitais na UFC. Apaixonado por jogos e tecnologia desde a infância, comecei a programar em 2024. Este é meu GitHub, onde compartilho projetos e práticas, com foco atual em desenvolvimento backend, enquanto busco minha primeira oportunidade de estágio.
+Olá! Me chamo Cayky, tenho 19 anos e sou estudante de Sistemas e Mídias Digitais na UFC, curso multidisciplinar no qual direcionei minha formação para desenvolvimento de software.
+
+Tenho experiência prática no desenvolvimento Full Stack com Node.js, React, React Native, APIs REST, bancos de dados relacionais e integração com serviços externos.
+
+Tenho interesse especial em desenvolvimento backend e arquitetura de software. Neste GitHub compartilho projetos, estudos e aplicações envolvendo Node.js, React Native, integrações com APIs, autenticação, bancos de dados e soluções Full Stack. Neste GitHub compartilho projetos, estudos e aplicações envolvendo Node.js, React Native, integrações com APIs, autenticação, bancos de dados e soluções Full Stack.
 
 ---
 
