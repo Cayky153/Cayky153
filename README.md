@@ -98,6 +98,6 @@ Tenho interesse especial em desenvolvimento backend e arquitetura de software. N
     align="left"
     alt="Github Stats"
     height="200"
-    src="https://github-readme-stats-fast.vercel.app/api?username=Cayky153&show_icons=true&theme=tokyonight&locale=pt-br&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Cayky153&show_icons=true&theme=radical&locale=pt-br"
   />
 </p>
