@@ -6,7 +6,7 @@ Olá! Me chamo Cayky, tenho 19 anos e sou estudante de Sistemas e Mídias Digita
 
 Tenho experiência prática no desenvolvimento Full Stack com Node.js, React, React Native, APIs REST, bancos de dados relacionais e integração com serviços externos.
 
-Tenho interesse especial em desenvolvimento backend e arquitetura de software. Neste GitHub compartilho projetos, estudos e aplicações envolvendo Node.js, React Native, integrações com APIs, autenticação, bancos de dados e soluções Full Stack. Neste GitHub compartilho projetos, estudos e aplicações envolvendo Node.js, React Native, integrações com APIs, autenticação, bancos de dados e soluções Full Stack.
+Tenho interesse especial em desenvolvimento backend e arquitetura de software. Neste GitHub compartilho projetos, estudos e aplicações envolvendo Node.js, React Native, integrações com APIs, autenticação, bancos de dados e soluções Full Stack.
 
 ---
 
