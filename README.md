@@ -1,6 +1,6 @@
 ## Cayky
 
-**`Desenvolvedor Backend`**
+**`Desenvolvedor FullStack`**
 
 Olá! Me chamo Cayky, tenho 19 anos e sou estudante de Sistemas e Mídias Digitais na UFC, curso multidisciplinar no qual direcionei minha formação para desenvolvimento de software.
 
@@ -42,6 +42,13 @@ Tenho interesse especial em desenvolvimento backend e arquitetura de software. N
     style="padding-right: 15px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
   />
+     <img 
+    alt="React Native"
+    title="React Native"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"
+  />
   <img 
     alt="Express"
     title="Express"
@@ -63,19 +70,40 @@ Tenho interesse especial em desenvolvimento backend e arquitetura de software. N
     style="padding-right: 15px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"
   />
-  <img 
-    alt="VSCODE"
-    title="VScode"
-    width="40px"
-    style="padding-right: 15px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-   />
     <img 
     alt="Kotlin"
     title="Kotlin"
     width="40px"
     style="padding-right: 15px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg"
+   />
+  <img 
+    alt="Java"
+    title="Java"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+   />
+  <img 
+    alt="Springboot"
+    title="Springboot"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+   />
+   <img 
+    alt="Python"
+    title="Python"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+   />
+    <img 
+    alt="Django"
+    title="Django"
+    width="40px"
+    style="padding-right: 15px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
    />
  <img 
     alt="VSCODE"
@@ -100,4 +128,11 @@ Tenho interesse especial em desenvolvimento backend e arquitetura de software. N
     height="200"
     src="https://github-readme-stats-fast.vercel.app/api?username=Cayky153&show_icons=true&theme=radical&locale=pt-br"
   />
+  
+<img
+  align="left"
+  alt="Top Languages"
+  height="200"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Cayky153&layout=compact&theme=radical&locale=pt-br"
+/>
 </p>
